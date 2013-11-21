@@ -14,23 +14,24 @@ Group member:
      The SplitPay system.
      
     2.Overall description of the product (=what is it? can you understand it?)
-     "The SplitPay system is composed of two main components: a client-side application which will 
-run on Android handsets, and a server-side application which will support and interact with 
-various client-side features."
-
-    3.Target audience?
-    In this documentation, there is no particular info on target audience can be found clearly.
-    
-    4.The situation?
-     In this documentation, there is no particular info on the situation can be found clearly.
-    5.Motivation?
-   " We are designing an application that facilitates the process of paying off shared expenses. In other 
-words, we want to make it easier to pay for things as a group."
      
      "The system is designed to facilitate the process of tracking and 
 settling shared expenses."
 
+    3.Target audience?
     
+    "This document is intended for all individuals participating in and/or supervising the SplitPay 
+project."
+    
+    4.The situation?
+     
+     In this documentation, there is no particular info on the situation can be found clearly.
+    
+    5.Motivation?
+   " We are designing an application that facilitates the process of paying off shared expenses. In other 
+words, we want to make it easier to pay for things as a group."
+     
+
    6. Structure
     1. Introduction
     2. Overall Description
@@ -55,11 +56,11 @@ settling shared expenses."
      
     2.Use case diagram? 
     
-    no
+    no.
     
     3.How cases are described, how much details?
     
-    as occasional examples in whole, no detailed description
+    As occasional examples in whole, no detailed description
     
     Use cases presented really poor or not defined at all
 
@@ -78,7 +79,7 @@ settling shared expenses."
     
     Measurable/traceability? (is it possible to check from the upcoming end product if a feature / requirement is implemented or not?)
 
-    Yes,they have some expectations and vision upon the future of the application.
+    They have mentioned some measures about non-functional requirements. But it's not clear.
 
    (How does (will) it look?)
 
@@ -89,7 +90,7 @@ settling shared expenses."
     
     2.Are the pictures mockups or screenshots from existing system?
     
-    They just have mock-ups but don't have screenshots of existing system
+    They  have mock-ups but they don't have screenshots of existing system
     
     3.Transitions between views
     
@@ -116,4 +117,4 @@ settling shared expenses."
     2.Do you think there would be enough information for you to build that system? 
     
     No, since we lack information concerning technical issues.
-    Etc.
+
