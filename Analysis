@@ -1,0 +1,120 @@
+LAB 4
+
+Group member:
+ 1. Evanfiya Logacheva
+ 2. Danhua Wu
+ 3. Anastasia Berezhnaya
+
+
+ source: http://www.cise.ufl.edu/class/cen3031fa13/SRS_Example_1_2011.pdf
+
+(Introduction)
+
+    1.What is the product?
+     The SplitPay system.
+     
+    2.Overall description of the product (=what is it? can you understand it?)
+     
+     "The system is designed to facilitate the process of tracking and 
+settling shared expenses."
+
+    3.Target audience?
+    
+    "This document is intended for all individuals participating in and/or supervising the SplitPay 
+project."
+    
+    4.The situation?
+     
+     In this documentation, there is no particular info on the situation can be found clearly.
+    
+    5.Motivation?
+   " We are designing an application that facilitates the process of paying off shared expenses. In other 
+words, we want to make it easier to pay for things as a group."
+     
+
+   6. Structure
+    1. Introduction
+    2. Overall Description
+    3. System Features
+       includ. Core Features, Additional Features
+    4. External Interface Requirements
+    5. Other Nonfunctional Requirements
+    6. Key Milestones 
+    7. Key Resource Requirements 
+    8. Other Requirements 
+    9. Appendix A Glossary 
+    10. Appendix B Project Proposal 
+    
+    7.Compare the structure of the document with the template provided for the course group work. How does it differ? Is there more? Less? (check also the contents and structure of SRS provided in Wikipedia: http://en.wikipedia.org/wiki/Software_requirements_specification).
+       They also have introduction and features as system architecture, user interfaces (mock-ups), project management (key milestones). Differences include absent user cases, user groups, and diagrams.
+
+(Use cases)
+
+    1.What the system (will) do?
+    
+     Arrange bills, track separate expenses/common expenses, account calculations
+     
+    2.Use case diagram? 
+    
+    no.
+    
+    3.How cases are described, how much details?
+    
+    As occasional examples in whole, no detailed description
+    
+    Use cases presented really poor or not defined at all
+
+(General structure of the system)
+
+    1.What chart techniques are used? Why?
+    
+    no chart techniques
+
+(Functional & non-functional requirements)
+
+    1.Listed?
+    
+    yes
+    
+    
+    Measurable/traceability? (is it possible to check from the upcoming end product if a feature / requirement is implemented or not?)
+
+    They have mentioned some measures about non-functional requirements. But it's not clear.
+
+   (How does (will) it look?)
+
+
+    1.UI examples / views? 
+    
+    Yes.
+    
+    2.Are the pictures mockups or screenshots from existing system?
+    
+    They  have mock-ups but they don't have screenshots of existing system
+    
+    3.Transitions between views
+    
+    No.
+
+(Process model? [might not exist, some times in a separate document called ‘project plan’])
+
+    1.Allocation of resources / budget?
+    
+    Allocation of key resources is fully provided and widely-specified. Unlike information upon budget.
+    
+    2.Risk Analysis?
+    No
+
+(Your point of view)
+
+    1.Is it a good/bad document? Why?
+    
+    It is coprehensive but average, it doesn't provide us with detailed information about user cases, and possible financial
+  obstacles, project management (no clear deadlines), no clearification of usability/accessibility, and absence of clear programming side.  
+    Consider also the quality of diagrams / illustrations 
+    They have fine mock-ups (they give a precise example of the product interface)
+    
+    2.Do you think there would be enough information for you to build that system? 
+    
+    No, since we lack information concerning technical issues.
+
