@@ -1,0 +1,16 @@
+1. Initial state:
+	1. The user has switched on their mobile phone.
+	2. The user has started the app.
+2. Normal flow:
+	1. The user logs in.
+	2. Click "find teacher" button.
+	3. Select the teacher they want to meet.
+3. Exceptions:
+	1. No connection.
+	2. Login fails.
+	3. The teacher has not logged in.
+	4. Navigation does not respond.
+4. Other activities at the same time:
+	1. The user obtains a notification from a friend.
+5. The end:
+	1. The app shows that the teacher is available and their location.
