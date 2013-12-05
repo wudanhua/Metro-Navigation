@@ -1,4 +1,6 @@
-User Groups Definition
+2.User Groups Definition
+
+
 1.	Visitor is a user that has not registered yet. They can open the application, but they cannot log in. They can also navigate.
 2.	User is one who has an account. They are entitled to check in, see location of other users, find other users, and see number of people in places, navigate to a classroom.
 
@@ -24,7 +26,7 @@ User	| 1.	Log in |
 
 User scenario.
 1. Initial state:
-        1. The client has established the Internet connection.
+ |1. The client has established the Internet connection.
         2. The client has started a browser.
         3. The client has opened the web page.
 2. Normal flow:
@@ -43,3 +45,19 @@ User scenario.
 ##use case diagram
 
 ![fallback text](UseCaseDiagram.png)
+
+
+
+
+
+
+4. System architecture
+
+1. Log in. A Username and a password are needed, aunthentification response.
+
+2. Location. Get user's location and other users' location - provided by Kana.
+
+
+3.Navigation is a module, which provides a user with the shortest route to some place, a map, a route on the map.
+
+4. Database where all information about users' accounts, room's number stored.
