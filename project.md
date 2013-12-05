@@ -51,7 +51,7 @@ User scenario.
 
 
 
-4. System architecture
+System architecture
 
 1. Log in. A Username and a password are needed, aunthentification response.
 
