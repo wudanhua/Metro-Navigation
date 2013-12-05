@@ -63,6 +63,7 @@ System architecture
 
 
 Requirements
+Functional system requirements
 
 1. Log in. A username and a password required, they are stored in the Database, and later on checked whether they are valid.
 2. Check in. A user shares their location with others. Kana is used.
@@ -75,6 +76,21 @@ Requirements
 9. See a number of people available. Kana and Database are used.
 10. Log out. Database is used.
 
+Non-functional system requirements
 
+1. Usability
+To ensure that the system is easy to use our application is based on already exisiting application Kana, which proved to be handy. We have concluded, that the more simple the appplication is the better it is. Nevertheless, it is powerful enough to provide  our users with an execellent service, and store all information needed. 
+
+On the front page there are two options, either to log in, or to proceed without it as a visitor. So nor only registered users can benefit from the application. 
+
+2.Security
+
+All user's information will be protected and completely private. No one except for the user can access it. 
+
+The possible system failures are:
+    1. Invalid ID or password-->Log in again, renew a password, register.
+    2. Connection fail--> restart thge application, check Internet connection.
+    
+    
 ##flowchart
 ![fallback text](Flowchart.png)
