@@ -3,6 +3,7 @@ User Groups Definition
 2.	User is one who has an account. They are entitled to check in, see location of other users, find other users, and see number of people in places, navigate to a classroom.
 
 Use Cases and Primary Actors
+
 | Primary Actor	| Use Cases |
 | ---- | ---- |
 Visitor	 | 1.	Navigate to a classroom. |
