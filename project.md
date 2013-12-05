@@ -83,14 +83,22 @@ To ensure that the system is easy to use our application is based on already exi
 
 On the front page there are two options, either to log in, or to proceed without it as a visitor. So nor only registered users can benefit from the application. 
 
-2.Security
+2.Reliability
 
 All user's information will be protected and completely private. No one except for the user can access it. 
 
 The possible system failures are:
     1. Invalid ID or password-->Log in again, renew a password, register.
-    2. Connection fail--> restart thge application, check Internet connection.
-    
+    2. Connection fail--> restart the application, check Internet connection.
+
+3.Efficiency    
+Although there are many users, especially on school time, we can ensure that average time that takes one to update is 5 seconds. This estimation is based on the fact that Metropolia Campus is equipped with fast Internet connection everywhere.
+
+
+
+
+
+
     
 ##flowchart
 ![fallback text](Flowchart.png)
