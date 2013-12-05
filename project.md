@@ -37,3 +37,7 @@ User scenario.
         1. The client sees recommendations.
 5. The end:
         1. The client checks out.
+
+##use case diagram
+
+![fallback text](UseCaseDiagram.png)
