@@ -59,3 +59,22 @@ System architecture
 3. Navigation is a module, which provides a user with the shortest route to some place, a map, a route on the map.
 
 4. Database where all information about users' accounts, room's number stored.
+
+
+
+Requirements
+
+1. Log in. A username and a password required, they are stored in the Database, and later on checked whether they are valid.
+2. Check in. A user shares their location with others. Kana is used.
+3. Set the status. A user chooses his status to be available/busy/away. Location is required, Kana is used.
+4. Search for a classroom. Database and Kana are used.
+5. Navigate to a classroom. Database, location, navigation are used.
+6. See location of other users. Database, location are used.
+7. Find other users. Database is used.
+8. Mark friends as favorites.Database is used.
+9. See a number of people available. Kana and Database are used.
+10. Log out. Database is used.
+
+
+##flowchart
+![fallback text](Flowchart.png)
