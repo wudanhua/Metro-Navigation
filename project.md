@@ -1,3 +1,21 @@
+MetroNavigation
+
+Introduction
+
+MetroNavigation is planned to be an application based on already existing Kana, a mobile application designed for identifying location at Metropolia UAS Alberga campus. The core system enables a user to see their location but after being enhanced there will be several more features such are:
+
+a. Navigation. We consider it to be one of the major benefits of the system. Nor only it makes life of users easier, but also it can be used by visitors, who do not have an account in the system.
+
+b. Search for other users location. This feature is especially helpful for students, who have an appointment with a teacher.  One can find another user, and see their status available/busy/away.
+
+c. Number of people at a particular place. Basically, it means that a user can check how many of other users are available/busy  in a classroom/library/cafeteria. 
+
+d. Mark friends as favourites. Users can keep in touch with each other by viewing on the map where their friends are.
+
+Our enhanced application is plain and handy, easy to use by anyone who has a smartphone, except for iOs users due to the Apple policies. Nevertheless, for anyone using mobile gadgets based on Android, we guarantee the application to be efficient, fast, and reliable.
+
+
+
 2.User Groups Definition
 
 
