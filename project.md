@@ -95,7 +95,17 @@ The possible system failures are:
 Although there are many users, especially on school time, we can ensure that average time that takes one to update is 5 seconds. This estimation is based on the fact that Metropolia Campus is equipped with fast Internet connection everywhere.
 
 
+User interface
 
+When user just open the application, log in is required. If the log in unsuccessful, it will give the "try again" option. After log in successfully, user can choose " Friends", "Teacher", "Classroom", "Library", "cafeteria".
+
+"Friends" button is going to show the user's friends list, and user can add, delete, add as favourite. In the friends list, it is going to show the "favourite" friends first. In this view, database is used. After choosing a friend, the location of the friend will be showed in the school's map. Meanwhile, user can select "Route there" to get the shortest route to the friend on the map. Database, Kana, navigation are used.
+
+When user click "Teacher" button, it will show teachers that are teaching cunrrentlly loged in user and a "Search" box. Database is used. After user choose one of the teachers, program will give the teacher's status(busy, available,away), office number. Location and database needed. User can navigate to the teacher from curent location. Navigation and location are used.
+
+"Classroom" button is going to show the user's next classroom on the map and the shortest route to there. In this view, application is using database, Kana, and navigation. 
+
+"Library", "Cafeteria" buttons are having the same function. Database, location, and navigation are required. When user click one of those buttons, applicaiton will show a number of users in that area. So user can decide whether to go there or not, depending on how many people there are. Also user can use our application to navigate to the Cafeteria or Library. At this point,  database, Kana, and navigation are used.
 
 
 
