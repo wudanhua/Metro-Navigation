@@ -1,6 +1,6 @@
 MetroNavigation
 
-Introduction
+<b>1.Introduction</b>
 
 MetroNavigation is planned to be an application based on already existing Kana, a mobile application designed for identifying location at Metropolia UAS Alberga campus. The core system enables a user to see their location but after being enhanced there will be several more features such are:
 
@@ -16,7 +16,7 @@ Our enhanced application is plain and handy, easy to use by anyone who has a sma
 
 
 
-2.User Groups Definition
+<b>2.User Groups Definition</b>
 
 
 1.	Visitor is a user that has not registered yet. They can open the application, but they cannot log in. They can also navigate.
@@ -43,33 +43,37 @@ User	| 1.	Log in |
 
 
 User scenario.
-1. Initial state:
- |1. The client has established the Internet connection.
-        2. The client has started a browser.
-        3. The client has opened the web page.
-2. Normal flow:
-        1. The client logs in.
+
+
+a. Initial state:
+1. The client has established the Internet connection;
+2. The client has started a browser;
+3. The client has opened the web page.
+
+
+b. Normal flow:
+1. The client logs in;
         2. The client browses sandwiches.
         3. The client selects a sandwich with cheese.
-3. Exceptions:
+
+c. Exceptions:
         1. No connection.
         2. Login fails.
         3. No sandwiches with cheese left.
-4. Other activities at the same time:
+        
+d. Other activities at the same time:
         1. The client sees recommendations.
-5. The end:
+e. The end:
         1. The client checks out.
 
-##use case diagram
+##Use Case Diagram
 
 ![fallback text](UseCaseDiagram.png)
 
 
 
 
-
-
-System architecture
+<b>3.System architecture</b>
 
 1. Log in. A Username and a password are needed, aunthentification response.
 
@@ -80,7 +84,9 @@ System architecture
 
 
 
-Requirements
+<b>4.Requirements</b>
+
+
 Functional system requirements
 
 1. Log in. A username and a password required, they are stored in the Database, and later on checked whether they are valid.
@@ -118,7 +124,7 @@ The possible system failures are:
 Although there are many users, especially on school time, we can ensure that average time that takes one to update is 5 seconds. This estimation is based on the fact that Metropolia Campus is equipped with fast Internet connection everywhere.
 
 
-User interface
+<b>5.User interface</b>
 
 When user just open the application, log in is required. If the log in unsuccessful, it will give the "try again" option. After log in successfully, user can choose " Friends", "Teacher", "Classroom", "Library", "cafeteria".
 
@@ -135,7 +141,7 @@ When user click "Teacher" button, it will show teachers that are teaching cunrre
 
 
 
-Project Management and Self Reflection
+<b>6.Project Management and Self Reflection</b>
 
 
 One of the main obstacles we faced was that we had to run the whole project in Github, which we had not used before. The problem with it was that most of the time we were working together on the one and same file but only one of us could submit it. It makes it difficult to estimate workload per one person. Nevertheless, in a real project we will be able to plan workload wisely, as now we have gained some experience in it.
