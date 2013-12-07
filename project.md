@@ -94,6 +94,11 @@ Functional system requirements
 9. See a number of people available. Kana and Database are used.
 10. Log out. Database is used.
 
+    
+##flowchart
+![fallback text](Flowchart.png)
+
+
 Non-functional system requirements
 
 1. Usability
@@ -127,6 +132,16 @@ When user click "Teacher" button, it will show teachers that are teaching cunrre
 
 
 
-    
-##flowchart
-![fallback text](Flowchart.png)
+
+
+
+Project Management and Self Reflection
+
+
+One of the main obstacles we faced was that we had to run the whole project in Github, which we had not used before. The problem with it was that most of the time we were working together on the one and same file but only one of us could submit it. It makes it difficult to estimate workload per one person. Nevertheless, in a real project we will be able to plan workload wisely, as now we have gained some experience in it.
+
+Another thing is that functional requirements were pretty complicated to describe, since we did not make the application itself - therefore, we were not able to see the real thing while writing about it. We are not entirely satisfied with it yet.
+
+Working on the next project we will divide our work into parts, since next time we will not have to think that much how parts of documentation are supposed to be written.
+
+
