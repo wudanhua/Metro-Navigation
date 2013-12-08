@@ -93,7 +93,7 @@ User	| 1.	Log in |
 2. Location. Get user's location and other users' location - provided by Kana.
 3. Navigation is a module, which provides a user with the shortest route to some place, a map, a route on the map.
 
-4. Database where all information about users' accounts, room's number stored.
+4. Database where all information about users' accounts, room numbers stored.
 
 
 
