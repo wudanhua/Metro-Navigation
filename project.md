@@ -75,7 +75,7 @@ User	| 1.	Log in |
  | b. Login fails. |
  | c. The friend has not logged in. |
  | d. Navigation does not respond. |
-4. Other activities at the same time: | The user obtains a notification from a friend. |
+4. Other activities at the same time: | The user obtains a notification from another friend. |
 5. The end: | The app shows that the friend is available and their location. |
 6. 
 
