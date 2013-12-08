@@ -55,14 +55,29 @@ User	| 1.	Log in |
 1. Initial state: | a. The user has switched on their mobile phone. |
  | b. The user has started the app. |
 2. Normal flow: | a. The user logs in. |
- | b. Click "find teacher" button. |
- | c. Select the teacher they want to meet. |
+ | b. They click "find teacher" button. |
+ | c. They select the teacher they want to meet. |
 3. Exceptions: | a. No connection. |
  | b. Login fails. |
  | c. The teacher has not logged in. |
  | d. Navigation does not respond. |
 4. Other activities at the same time: | The user obtains a notification from a friend. |
 5. The end: | The app shows that the teacher is available and their location. |
+
+| Steps| Details |
+| ---- | ---- |
+1. Initial state: | a. The user has switched on their mobile phone. |
+ | b. The user has started the app. |
+2. Normal flow: | a. The user logs in. |
+ | b. They click "Friends" button. |
+ | c. They select a friend they want to meet. |
+3. Exceptions: | a. No connection. |
+ | b. Login fails. |
+ | c. The friend has not logged in. |
+ | d. Navigation does not respond. |
+4. Other activities at the same time: | The user obtains a notification from a friend. |
+5. The end: | The app shows that the friend is available and their location. |
+6. 
 
 ##Use Case Diagram
 
