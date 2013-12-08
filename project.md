@@ -10,7 +10,7 @@ Editors - <i>Evanfiya Logacheva, Danhua Wu</i><br>
 
 MetroNavigation is planned to be an application based on already existing Kana, a mobile application designed for identifying location at Metropolia UAS Alberga campus. The core system enables a user to see their location but after being enhanced there will be several more features such are:
 
-a. Navigation. We consider it to be one of the major benefits of the system. Nor only it makes life of users easier, but also it can be used by visitors, who do not have an account in the system.
+a. Navigation. We consider it to be one of the major benefits of the system. Nor only makes it life of users easier, but also it can be used by visitors, who do not have an account in the system.
 
 b. Search for other users location. This feature is especially helpful for students, who have an appointment with a teacher.  One can find another user, and see their status available/busy/away.
 
