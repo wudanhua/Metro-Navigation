@@ -1,0 +1,72 @@
+Scrum by example
+1) have a product backlog: user stories
+
+| Primary Actor	| Use Cases |
+| ---- | ---- |
+Visitor	 | 1.	Navigate to a classroom. |
+ | 2.	Choose a classroom. |
+User	| 1.	Log in |
+ | 2.	Log out |
+ | 3.	Check in |
+ | 4.	See location of other users |
+ | 5.	Find other users |
+ | 6.	See a number of people available |
+ | 7.	Navigate to a class room |
+ | 8.	Mark friends as favorites |
+ | 9.	Choose a classroom |
+ | 10.	Put a status available/busy/away |
+
+| Steps| Details |
+| ---- | ---- |
+1. Initial state: | a. The user has switched on their mobile phone. |
+ | b. The user has started the app. |
+2. Normal flow: | a. The user logs in. |
+ | b. They click "search classroom" button. |
+3. Exceptions: | a. No connection. |
+ | b. Login fails. |
+ | c. Navigation does not respond. |
+4. Other activities at the same time: | The user obtains a notification from a friend. |
+5. The end: | The app navigates the user to the classroom. |
+
+| Steps| Details |
+| ---- | ---- |
+1. Initial state: | a. The user has switched on their mobile phone. |
+ | b. The user has started the app. |
+2. Normal flow: | a. The user logs in. |
+ | b. They click "Friends" button. |
+ | c. They select a friend they want to meet. |
+3. Exceptions: | a. No connection. |
+ | b. Login fails. |
+ | c. The friend has not logged in. |
+ | d. Navigation does not respond. |
+4. Other activities at the same time: | The user obtains a notification from another friend. |
+5. The end: | The app shows that the friend is available and their location. |
+(Product owner manages product backlog)
+
+| Steps| Details |
+| ---- | ---- |
+1. Initial state: | a. The user has switched on their mobile phone. |
+ | b. The user has started the app. |
+2. Normal flow: | a. The user logs in. |
+ | b. They click "search user" button. |
+3. Exceptions: | a. No connection. |
+ | b. Login fails. |
+ | c. Navigation does not respond. |
+4. Other activities at the same time: | The user obtains a notification from a friend. |
+5. The end: | The user adds a friend to Favourites. |
+
+2) 
+-must-have (Location - Kana, Navigation, Database), 
+-important (Search,Status ), nice-to-have(Favourites)
+-choose what will be in first release (after first sprint) - Location, Navigation and Database of classrooms
+3) 
+-how many stories fit? 3 stories
+1) choose highest priority story - the first story
+2) identify tasks needed for story, identify task hours - we have 160 man-hours (2 workers, 2 weeks). 
+a. First story - Navigation - 60 hours, Location is already done (Kana), Database - 30 hours - 90 hours in total for the first story.
+b. Second story - search - 30 hours, Status - 20 hours - 50 hours in total
+c. Third story - Favourites - 20 hours
+
+
+
+
